@@ -88,4 +88,3 @@ function clearStorage() {
 addTodoButton.addEventListener('click', addItem);
 todolist.addEventListener('click', deleteItem);
 clearAllButton.addEventListener('click', clearStorage);
-
